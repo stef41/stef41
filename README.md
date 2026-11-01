@@ -85,10 +85,6 @@ vibescore .
 | External deps | Zero (most packages) |
 | License | Apache 2.0 (all) |
 
-## Urban exploration
-
-[Urbexology](https://urbexology.com/) is an interactive map for exploring abandoned places.
-
 ## 💡 Philosophy
 
 1. **Ship real tools, not demos.** Every project has a CLI, Python API, tests, CI, and is on PyPI.
